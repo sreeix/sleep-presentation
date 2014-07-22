@@ -78,12 +78,14 @@ There seem to be two process responsible for bringing sleep.
 	These are biological processes that  are driven by human daily clocks.
 	
 	The main components of this system reside in the Hypothalamus.
-	** SCN. The Supra Chaismatic Nucleas. 
+
+** SCN. The Supra Chaismatic Nucleas. 
 		It a group of nuclei in Hypothalamus that sits right over optic chaism, and receives input from retina.
 		The master clock of the body, directly controlled by the vision information coming from retina. 
 		It controls the Pineal Gland to secrete more or less melatonin. Melatonin secretion peaks at night and causes the onset of sleep. This mechanism controls the Sleep wake cycle.
 		It also controls the other local clocks in the body.
-	** VLPO . The Ventrolateral preoptic nucleus
+
+** VLPO . The Ventrolateral preoptic nucleus
 		It is a cluster of neurons in the anterior hypothalamus on the side of optic chaism. VLPO and SCN have neuronal projections into each other and seems to play a role in circadian rhythm in mammals.
 		It primarily produces the inhibitory neuro transmitter GABA which inhibits the function of arousal systems(It has projections to the arousal systems) and causes sleep
 		It appears to be enervated by orexin neurons from posterior Hypothalamus that inhibit VLPO operations. Thus Orexin creats an A-B feedback system which keeps the sleep wake cycle in play and always stays in either of the two modes.
